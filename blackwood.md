@@ -182,13 +182,11 @@ A D&D 5e one-shot for 2 players and 1 DM.
 > • Laudanum  
 > • Poisoned wine glass  
 > • Syringe and vials
-
 > **Motive**  
 > • New will  
 > • Blackmail  
 > • Family shame  
 > • Illicit affairs
-
 > **Opportunity**  
 > • Skeleton key  
 > • Muddy footprints  
@@ -200,7 +198,6 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ---
 
 ## 🧨 Optional Combat
-
 > [!warning]
 > - The killer may try to escape or silence the players once discovered.  
 > - Secret passage in the wine cellar can serve as an escape route.  
@@ -209,7 +206,6 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ---
 
 ## 🔚 Ending Possibilities
-
 > [!important]
 > **Main Killer:** Lady Margaret Blackwood. Motivated by inheritance and revenge.  
 > **Accomplice:** Possibly Dr. Hemsworth (supplier of poison) or the butler (access).
