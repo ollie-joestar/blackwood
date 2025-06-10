@@ -153,37 +153,31 @@ A D&D 5e one-shot for 2 players and 1 DM.
 
 ### Lady Margaret Blackwood  
 
-> [!quote]
 > **Cold, proud, and bitter.**
 > Recently cut from the will. Saw Blackwood as a traitor.
 
 ### Edmund Vale  
 
-> [!quote]
 > **A romantic poet.** 
 > Forbidden from courting Margaret’s daughter. Found near study.
 
 ### Dr. Eliza Hemsworth  
 
-> [!quote]
 > **Family physician.** 
 > Provided laudanum. Financially entangled with the victim.
 
 ### Benedict the Butler  
 
-> [!quote]
 > **Stoic and polite.** Holds a master key.
 > In debt and easily manipulated.
 
 ### Tabitha Wren  
 
-> [!quote]
 > **Fortune teller.** 
 > Knows more than she should. May have been blackmailing Blackwood.
 
 ### Agnes the Cook  
 
-> [!quote]
 > **Loyal to the house.** 
 > Hears everything. Hints at knowing the real story.
 
