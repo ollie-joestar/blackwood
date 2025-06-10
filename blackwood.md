@@ -1,9 +1,3 @@
----
-id: blackwood
-aliases: []
-tags: []
----
-
 # The Last Ballad of Lord Blackwood
 
 A D&D 5e one-shot for 2 players and 1 DM.  
@@ -20,6 +14,13 @@ A D&D 5e one-shot for 2 players and 1 DM.
 > Lord Alistair Blackwood, a wealthy and eccentric noble, was found dead in his locked study the morning after hosting a masquerade ball at Blackwood Hall. 
 > With a storm washing out the bridge, no one can leave the estate.  
 > The players must uncover the truth before the local constable arrives—or the real killer escapes.
+
+```
+Rain lashes against the windows as your carriage rattles up the gravel path. Ahead, Blackwood Hall looms from the mist—a silhouette of turrets, chimneys, and stern stone. 
+The manor seems to frown down at you, its great iron doors waiting silently.
+A butler in black stands at attention beneath a flickering gaslight. 
+“Welcome,” he says with no warmth. “Lord Blackwood has requested your discretion… though I fear you may be too late.”
+```
 
 ---
 
@@ -43,6 +44,12 @@ A D&D 5e one-shot for 2 players and 1 DM.
 
 ### 📚 The Study (Crime Scene)
 
+```
+The door creaks open into a room heavy with tobacco and secrets. Lord Blackwood sits slumped in his high-backed chair, a pistol dangling from his hand. 
+A glass of red wine is spilled across a letter on his desk. His expression is fixed in a strange, rigid grimace.
+There’s no sign of a struggle, no broken furniture or forced entry. Just the silence—and the storm outside.
+```
+
 > [!note]
 > **Description**  
 > Locked from inside. Oak desk, spilled wine, pistol in Blackwood's hand. Fireplace recently used.
@@ -60,6 +67,12 @@ A D&D 5e one-shot for 2 players and 1 DM.
 
 ### 💃 Ballroom
 
+```
+Moonlight filters through tall arched windows, glinting off the shattered edges of a ballroom mirror. Velvet curtains sway gently in the draft. 
+The room is mostly empty now—only the occasional whisper or shoe echoing against the marble floor.
+A forgotten dance card flutters by your feet. Perfume still hangs in the air—sweet, but cloying.
+```
+
 > [!note]
 > **Description**  
 > Lavish, with velvet curtains and a cracked mirror. Faint scent of perfume lingers.
@@ -74,6 +87,11 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ---
 
 ### 🛏️ Guest Rooms
+
+```
+Each guest room reveals its own secrets: love letters folded beneath pillows, drawers that don’t quite shut, and masks tossed onto chairs like discarded truths. 
+The walls feel closer here, the air heavier. Somewhere, a clock chimes ten. The night deepens.
+```
 
 ##### Lady Margaret’s Room
 
@@ -208,6 +226,7 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ---
 
 ## 🧨 Optional Combat
+
 > [!warning]
 > - The killer may try to escape or silence the players once discovered.  
 > - Secret passage in the wine cellar can serve as an escape route.  
@@ -244,3 +263,13 @@ A D&D 5e one-shot for 2 players and 1 DM.
 > The players must present their theory and accuse a suspect—or risk the wrong person being arrested.
 
 ---
+
+cat << age1 >out1 | ls | cat <<age2 >out2
+one
+two
+three
+four
+five
+age1
+six
+age2
