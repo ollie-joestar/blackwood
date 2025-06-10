@@ -77,25 +77,33 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ### 🛏️ Guest Rooms
 
 ##### Lady Margaret’s Room
+
 > [!important]
+
 > **Clues**  
 > • Locked drawer (Key hidden in corset box) – Threatening letters  
 > • Hidden bottle of laudanum prescribed by Dr. Hemsworth
 
 ##### Edmund Vale’s Room
+
 > [!important]
+
 > **Clues**  
 > • Unsent letter: “I’ll elope with her anyway.”  
 > • Ripped mask – fibers match those near the study
 
 ##### Dr. Hemsworth’s Room
+
 > [!important]
+
 > **Clues**  
 > • Medical satchel with vial of belladonna (labeled for rodents)  
 > • Hidden ledger of illegal laudanum sales (incl. Blackwood)
 
 ##### Tabitha Wren’s Room
+
 > [!important]
+
 > **Clues**  
 > • Tarot spread: Death, Tower, Justice  
 > • Drafts of blackmail notes – match burned scrap handwriting
@@ -149,26 +157,32 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ## 🧍 Suspects & Motives
 
 ### Lady Margaret Blackwood  
+
 > [!quote]
 > **Cold, proud, and bitter.** Recently cut from the will. Saw Blackwood as a traitor.
 
 ### Edmund Vale  
+
 > [!quote]
 > **A romantic poet.** Forbidden from courting Margaret’s daughter. Found near study.
 
 ### Dr. Eliza Hemsworth  
+
 > [!quote]
 > **Family physician.** Provided laudanum. Financially entangled with the victim.
 
 ### Benedict the Butler  
+
 > [!quote]
 > **Stoic and polite.** Holds a master key. In debt and easily manipulated.
 
 ### Tabitha Wren  
+
 > [!quote]
 > **Fortune teller.** Knows more than she should. May have been blackmailing Blackwood.
 
 ### Agnes the Cook  
+
 > [!quote]
 > **Loyal to the house.** Hears everything. Hints at knowing the real story.
 
@@ -176,17 +190,18 @@ A D&D 5e one-shot for 2 players and 1 DM.
 
 ## 🧩 Structure of the Mystery
 
-> [!example]
 > **Means**  
 > • Belladonna poison  
 > • Laudanum  
 > • Poisoned wine glass  
 > • Syringe and vials
+
 > **Motive**  
 > • New will  
 > • Blackmail  
 > • Family shame  
 > • Illicit affairs
+
 > **Opportunity**  
 > • Skeleton key  
 > • Muddy footprints  
