@@ -25,7 +25,6 @@ A D&D 5e one-shot for 2 players and 1 DM.
 
 ## 🎭 Character Roles
 
-> [!example]
 > **Recommended PCs**  
 > - Level 3  
 > - Ideal Classes: Rogue (Inquisitive), Cleric (Knowledge/Grave), Bard (Lore/Whispers), Fighter (Champion), Wizard (Divination)  
@@ -79,7 +78,6 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ##### Lady Margaret’s Room
 
 > [!important]
-
 > **Clues**  
 > • Locked drawer (Key hidden in corset box) – Threatening letters  
 > • Hidden bottle of laudanum prescribed by Dr. Hemsworth
@@ -87,7 +85,6 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ##### Edmund Vale’s Room
 
 > [!important]
-
 > **Clues**  
 > • Unsent letter: “I’ll elope with her anyway.”  
 > • Ripped mask – fibers match those near the study
@@ -95,7 +92,6 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ##### Dr. Hemsworth’s Room
 
 > [!important]
-
 > **Clues**  
 > • Medical satchel with vial of belladonna (labeled for rodents)  
 > • Hidden ledger of illegal laudanum sales (incl. Blackwood)
@@ -103,7 +99,6 @@ A D&D 5e one-shot for 2 players and 1 DM.
 ##### Tabitha Wren’s Room
 
 > [!important]
-
 > **Clues**  
 > • Tarot spread: Death, Tower, Justice  
 > • Drafts of blackmail notes – match burned scrap handwriting
@@ -234,7 +229,6 @@ A D&D 5e one-shot for 2 players and 1 DM.
 
 ## 📎 Handouts to Provide
 
-> [!example]
 > - Floor plan of Blackwood Hall  
 > - Guest list / masquerade program  
 > - Torn journal page  
